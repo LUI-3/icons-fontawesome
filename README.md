@@ -1,0 +1,2 @@
+# LUI-3 FontAwesome icons component
+This component extends FontAwesome icons with additional features. FontAwesome repository can be found here https://github.com/FortAwesome/Font-Awesome and is required to use this package in LUI-3
