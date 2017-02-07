@@ -1,4 +1,4 @@
-[![GitHub license](http://content.github.lui-3.cz/LUI-3_logo-small.png)](//lui-3.cz/)
+[![LUI-3 logo](http://content.github.lui-3.cz/LUI-3_logo-small.png)](//lui-3.cz/)
 # FontAwesome icons
 This repository contains `LUI-3_icons-fontawesome` component which extends original FontAwesome (https://github.com/FortAwesome/Font-Awesome) with additional features
 
