@@ -10,3 +10,13 @@
 
 @fa-css-auto-after:			true;
 @fa-css-auto-after_prefix:	fa_a_;
+
+
+// DEBUG MODE - CONFIG VALUES
+.lui_config_values when (@lui_debug = true){
+	--lui_icons-fa_config: "LUI-3_icons-fontawesome/less/fa.config.less";
+	--fa-css-auto-before: @fa-css-auto-before;
+	--fa-css-auto-before_prefix: @fa-css-auto-before_prefix;
+	--fa-css-auto-after: @fa-css-auto-after;
+	--fa-css-auto-after_prefix: @fa-css-auto-after_prefix;
+}
